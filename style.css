@@ -1,0 +1,68 @@
+.bg-imagem{
+  background-image: url(images/tema.jpg);
+  height: 48vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-imagem p{
+  font-size: 5vw;
+  text-shadow: 5px 5px 8px black;
+}
+
+div.container{
+  display: flex;
+  width: 100%;
+}
+div.galeria{
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 180px;
+  float:left;
+}
+
+div.galeria img{
+  width: 100%;
+  height:auto;
+  
+}
+
+div.galeria:hover{
+  border: 2px solid #777;
+}
+
+div.descricao{
+  padding: 15px;
+  text-align:center;
+}
+.nav-link, .dropdown-item{
+  color:white !important;
+}
+.nav-link:hover:not(.active), .dropdown-item:hover{
+  background-color:#8c8c8c !important;
+  
+}
+#cardapio{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 15px;
+}
+
+#cardapio img{
+  padding: 5px;
+  width: 400px;
+  height: 300px;
+  border-radius: 50px;
+}
+
+#itemcardapio{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+  background-color: rgba(0,0,0,0.85);
+  margin: 10px;
+  border-radius: 5px;
+  padding: 20px;
+}
