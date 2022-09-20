@@ -1,1 +1,1 @@
-# Projeto do curso de Front-End do Cellep com Estação Hack do Facebook. Foi criado um modelo de site de restaurante com meu layout, link do site renderizado: 'https://projeto-front-cellep-restaurante.vercel.app/'
+# Projeto de minha autoria, com intuito de criação de uma website para um restaurante fictício, onde o layout foi feito por mim, link do site renderizado: 'https://projeto-front-cellep-restaurante.vercel.app/'
