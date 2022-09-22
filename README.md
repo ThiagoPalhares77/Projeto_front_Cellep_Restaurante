@@ -1,1 +1,2 @@
-# Projeto de minha autoria, com intuito de criação de uma website para um restaurante fictício, onde o layout foi feito por mim, link do site renderizado: 'https://projeto-front-cellep-restaurante.vercel.app/'
+# First project made with code and entire layouts of my own, it was presented at the end of the Cel.lep course in partnership with 'Estação Hack' from Facebook. Rendered website link:
+https://projeto-front-cellep-restaurante.vercel.app/'
